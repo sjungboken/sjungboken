@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b818b0b2.css",
+    "main.js": "/static/js/main.f9812d6b.js",
+    "static/media/pdf.pdf": "/static/media/pdf.02f20e4ad802f1fecc41.pdf",
+    "pdf.worker.js": "/06a62adfc53839074e574c9e8869f162.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/icon.svg": "/static/media/icon.5633f9715f7b9aea605e1b9e0cd1fa7d.svg",
+    "static/media/apple_logo.svg": "/static/media/apple_logo.9499b71ab992858520e668ef570da28d.svg",
+    "static/media/google_logo.svg": "/static/media/google_logo.d6c81abde089c26611696f98211b84e2.svg",
+    "static/media/add.svg": "/static/media/add.6a9688863a7f165ac9a9bbeabb013acb.svg",
+    "static/media/share.svg": "/static/media/share.531665be8da0791800cde8f72d1730d5.svg",
+    "index.html": "/index.html",
+    "main.b818b0b2.css.map": "/static/css/main.b818b0b2.css.map",
+    "main.f9812d6b.js.map": "/static/js/main.f9812d6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b818b0b2.css",
+    "static/js/main.f9812d6b.js"
+  ]
+}

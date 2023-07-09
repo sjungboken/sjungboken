@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 28.993 32"
+   version="1.1"
+   id="svg16"
+   sodipodiDocname="google_logo_2.svg"
+   width="28.993"
+   height="32"
+   inkscapeVersion="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSvg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodiNamedview
+     id="namedview18"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscapeShowpageshadow="0"
+     inkscapePageopacity="0"
+     inkscapePagecheckerboard="0"
+     inkscapeDeskcolor="#505050"
+     showgrid="false"
+     inkscapeZoom="3.6875"
+     inkscapeCx="93.288136"
+     inkscapeCy="41.762712"
+     inkscapeWindow-width="1416"
+     inkscapeWindow-height="845"
+     inkscapeWindow-x="9"
+     inkscapeWindow-y="40"
+     inkscapeWindow-maximized="1"
+     inkscapeCurrent-layer="g12" />
+  <g
+     data-name="Capa 2"
+     id="g14">
+    <g
+       data-name="Capa 1"
+       id="g12">
+      <path
+         d="M 13.54,15.28 0.12,29.34 a 3.64,3.64 0 0 0 5.33,2.16 l 15.1,-8.6 z"
+         style="fill:#ea4335"
+         id="path4" />
+      <path
+         d="m 27.11,12.89 -6.53,-3.74 -7.35,6.45 7.38,7.28 6.48,-3.7 a 3.55,3.55 0 0 0 0,-6.29 z"
+         style="fill:#fbbc04"
+         id="path6" />
+      <path
+         d="M 0.12,2.66 A 3.46,3.46 0 0 0 0,3.58 v 24.84 a 3.66,3.66 0 0 0 0.12,0.92 L 14,15.64 Z"
+         style="fill:#4285f4"
+         id="path8" />
+      <path
+         d="M 13.64,16 20.58,9.15 5.5,0.51 A 3.72,3.72 0 0 0 3.63,0 3.64,3.64 0 0 0 0.12,2.65 Z"
+         style="fill:#34a853"
+         id="path10" />
+    </g>
+  </g>
+</svg>
